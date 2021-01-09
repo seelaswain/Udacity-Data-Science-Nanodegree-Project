@@ -22,6 +22,7 @@ seaborn library
 
 **Files uploaded**
 *Udacity_Project-Copy2.ipynb*:- This is a Jupyter Note book containing fully functional codes.
+
 *listings.csv*:- This is the data set used for the project. This is the listing dataset of AirBnB Seattle
 
 **Findings of the Project**
