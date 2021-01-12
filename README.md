@@ -32,3 +32,9 @@ On doing the exploratory data analysis of Seattle AirBnB listing dataset, I can 
 3. Wireless Internet , Smoke Detector , Free Parking are amongst the top amenities that most owners provide.
 4. Based on the heatmap plotted, review_score_value has maximum impact on rating
 5. Our model can explain almost 2%  variablity.
+
+**Acknowledgement**
+1. Indian AI production https://indianaiproduction.com/ (YouTube Videos) for their exploratory data analysis technique.
+2. https://www.kaggle.com  for AirBnB dataset.
+
+
